@@ -1,4 +1,4 @@
-# road_safety_data_challenge
+# Road Safety Data Challenge
 
 A little exercise that tries to predict whether a police officer will attend an accident using road safety data from the UK government.
 
